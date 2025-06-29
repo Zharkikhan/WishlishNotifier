@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: WishlistNotifier
+## Notes: Te avisa si lootéas algo que buscas
+## Author: Zharkikhan
+WishlistNotifier.lua
